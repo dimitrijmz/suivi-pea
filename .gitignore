@@ -1,0 +1,6 @@
+# Données personnelles : ne jamais committer
+data/
+source/
+*.xlsx
+*:Zone.Identifier
+node_modules/
